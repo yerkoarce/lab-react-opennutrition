@@ -1,6 +1,6 @@
-![Root Logo](https://imgur.com/8SaXUUH.png)
+<img src="https://imgur.com/XOS1Vdh.png"  width="150px" height="150px">
 
-  # LAB | React RootNutrition
+# LAB | React OpenNutrition
 
   
 
@@ -38,7 +38,7 @@ To take care of the food you eat, you decided to create a nutrition app that wil
 
 ```bash
 
-$ cd lab-react-rootnutrition
+$ cd lab-react-opennutrition
 
 $ npm install
 
